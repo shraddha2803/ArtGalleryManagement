@@ -4,9 +4,8 @@
 This project is an e-commerce website for an art gallery. The website efficiently manages and stores data pertaining to artists, artworks, customers, and orders. The frontend is built using HTML, CSS, and JavaScript, while the backend utilizes Java, JSP, Servlet, and MySQL for the database.
 
 ## Features
-- **Artist Management**: Add, edit, and delete artist information.
-- **Artwork Management**: Add, edit, and delete artwork details.
-- **Customer Management**: Manage customer profiles and authentication.
+- **Artist Management**: Add artwork and its information.
+- **Customer Management**: Authenticated,search,buy,add to cart their favourite artworks.
 - **Order Management**: Handle orders, including creation, update, and deletion.
 - **Responsive Design**: User-friendly interface for different devices.
 
