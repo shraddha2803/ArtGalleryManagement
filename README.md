@@ -5,7 +5,7 @@ This project is an e-commerce website for an art gallery. The website efficientl
 
 ## Features
 - **Artist Management**: Add artwork and its information.
-- **Customer Management**: Authenticated,search,buy,add to cart their favourite artworks.
+- **Customer Management**: Authenticate,search,buy,add to cart favourite artwork.
 - **Order Management**: Handle orders, including creation, update, and deletion.
 - **Responsive Design**: User-friendly interface for different devices.
 
